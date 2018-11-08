@@ -3,7 +3,7 @@ html {
 }
 
 /*DEBUG SECTION BOUNDARY*/
-.section, .border{
+.border{
     border-style: dashed;
     border-color: red;
 }
